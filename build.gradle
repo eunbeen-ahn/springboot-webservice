@@ -1,7 +1,7 @@
 buildscript {
     // 전역변수 설정
     ext {
-        sprintBootVersion = '2.1.7.RELEASE'
+        springBootVersion = '2.1.7.RELEASE'
     }
     repositories {
         mavenCentral()
